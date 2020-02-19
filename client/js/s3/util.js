@@ -48,7 +48,8 @@ qq.s3.util = qq.s3.util || (function() {
             "x-amz-server-side-encryption-aws-kms-key-id",
             "x-amz-server-side-encryption-customer-algorithm",
             "x-amz-server-side-encryption-customer-key",
-            "x-amz-server-side-encryption-customer-key-MD5"
+            "x-amz-server-side-encryption-customer-key-MD5",
+            "x-amz-storage-class"
         ],
 
         /**
